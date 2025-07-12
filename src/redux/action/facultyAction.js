@@ -10,7 +10,7 @@ const setFaculty = (data) => {
     }
 }
 
-const url = "https://amsback.onrender.com"
+const url = "https://amsproject.onrender.com"
 
 const fetchStudentsHelper = (data) => {
     return {
