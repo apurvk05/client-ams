@@ -6,7 +6,7 @@ import {
     GET_SUBJECTS
 } from '../actionTypes'
 
-const url = "https://amsback.onrender.com"
+const url = "https://amsproject.onrender.com"
 
 const setAdmin = (data) => {
     return {
